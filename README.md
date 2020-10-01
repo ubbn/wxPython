@@ -1,9 +1,9 @@
 # wxPython in Action
 
-[wxPython](http://www.wxpython.org/) is a Python extension library for developing cross platform GUI. It is an alternative to other GUI development toolkits like [PyQt](https://riverbankcomputing.com/software/pyqt/intro), [Tkinter](https://docs.python.org/2/library/tkinter.html) etc. This repostiory contains a variety of code examples for developing different GUI elements with wxPython. 
+[wxPython](http://www.wxpython.org/) is a Python extension library for developing cross platform GUI. It's an alternative to other GUI development toolkits like [PyQt](https://riverbankcomputing.com/software/pyqt/intro), [Tkinter](https://docs.python.org/2/library/tkinter.html) etc. This repostiory contains a variety of code examples for the developing of different GUI elements with wxPython. 
 
 ## Usage
-Below simple module demonstrantes creation of two main objects in wxPython which are the main window object and the application object, followed by passing the control to the event-driven system by calling `MainLoop()` which manages the user-interactive part of the program.
+Below simple module demonstrantes creation of the two main objects in wxPython which are the main window object and the application object, followed by passing the control to the event-driven system by calling `MainLoop()` which manages the user-interactive part of the program.
 
 ```python
 #!/usr/bin/env python
