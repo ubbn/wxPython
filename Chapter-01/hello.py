@@ -2,6 +2,7 @@
 
 """Hello, wxPython! program."""
 
+#wxPython is a cross-platform GUI toolkit for the Python programming language
 import wx
 
 class Frame(wx.Frame):
